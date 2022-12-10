@@ -1,0 +1,3 @@
+##First run npm i
+## nodemon app.js to start the server;
+##make the csv file with headers user_name,phone,state,city,pincode
